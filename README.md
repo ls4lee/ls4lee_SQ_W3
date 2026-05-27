@@ -1,24 +1,63 @@
 # Week 3 Example 2: Full Fighting Game
+
+## Setup and Interaction Instructions
+
+To run the sketch locally, open `index.html` in Google Chrome using Live Server.
+
+Sound files must be present in `assets/sounds/` before running:
+
+- `punch_1.wav` through `punch_9.wav`
+- `win.wav`
+- `background.mp3`
+
+**Player 1 Controls:**
+
+- Move: A / D
+- Attack: F
+- Block: G
+
+**Player 2 Controls:**
+
+- Move: Arrow Keys
+- Attack: K
+- Block: L
+
+Press **ENTER** to start or rematch.
+
+**Opening the Chrome Console**
+
+- **Windows:** Press `F12` or `Ctrl + Shift + J`, then click the **Console** tab
+- **Mac:** Press `Cmd + Option + J`
+
+The console will show any errors in your sketch.
+
 ## Assets
 
 | File                                        | Source                                            |
 | ------------------------------------------- | ------------------------------------------------- |
-| `assets/sounds/punch_1.wav` – `punch_9.wav` [1]| Punch SFX — OpenGameArt.org                       | 
-| `assets/sounds/win.wav` [2]                    | listener4me, Win Sound Effect — OpenGameArt.org   |
-| `assets/sounds/background.mp3` [3]           | Matthew Pablo, Space Dimensions — OpenGameArt.org | 
-| `assets/images/telefragger.png` [4] | Nullscape
-| `assets/images/mart.png` [5] | Nullscape
+| `assets/images/portal2background.jpg` [1] | 
+| `assets/images/portalfightbackground.jpg` [2] | 
+| `assets/images/portalwin.jpg` [3] | 
+
+| `assets/sounds/backgroundmusic.mp3` [4] | Nullscape
+| `assets/sounds/winmusic.ogg` [4] | Nullscape
+
+| `assets/images/telefragger.png` [5] | Nullscape
+| `assets/sounds/teleport.mp3` [5]  | Nullscape
+
+| `assets/images/mart.png` [6] | Nullscape
 
 ## References
 
-listener4me. n.d. _Win Sound Effect_. OpenGameArt.org. Retrieved May 1, 2026, from https://opengameart.org/content/win-sound-effect
+[1] Alpha Coders. (2023, August 22). Portal 2 HD wallpaper: Exploring the forgotten aperture labs: 1920X1080. Wallpaper Abyss. https://wall.alphacoders.com/big.php?i=567500 
 
-Pablo, Matthew. n.d. _Space Dimensions (Techno Version)_. OpenGameArt.org. Retrieved May 1, 2026, from https://opengameart.org/content/space-dimensions-techno-version
+[2] Test chamber 4 in portal 2: Portal room, portal game hallway scene, sci-Fi Portal Gate in laboratory. Pinterest. (2016, March 17). https://uk.pinterest.com/pin/portal-is-the-obvious-first-choice-inspiration-for-a-scientific-test-game-the-aesthetics-are-that-it-is-a-run-down-old-facility-i-t--43417583886355981/ 
 
-Punch SFX. n.d. OpenGameArt.org. Retrieved May 1, 2026, from https://opengameart.org/content/punch-sfx
+[3] Portal (game) 1080p, 2K, 4K, 5k HD wallpapers free download | wallpaperflare. (n.d.-b). https://www.wallpaperflare.com/search?wallpaper=Portal+(game) 
 
-Alpha Coders. (2023, August 22). Portal 2 HD wallpaper: Exploring the forgotten aperture labs: 1920X1080. Wallpaper Abyss. https://wall.alphacoders.com/big.php?i=567500 
+[4] Nullscape. (2026, May 14). Music. https://nullscape.wiki/wiki/Music 
 
-Nullscape. (2026, May 25). Telefragger. https://nullscape.wiki/wiki/Telefragger 
+[5] Nullscape. (2026, May 25). Telefragger. https://nullscape.wiki/wiki/Telefragger 
 
-Nullscape. (2026, May 25). Mart. https://nullscape.wiki/wiki/Mart 
+[6] Nullscape. (2026, May 25). Mart. https://nullscape.wiki/wiki/Mart 
+
