@@ -38,13 +38,10 @@ The console will show any errors in your sketch.
 | `assets/images/portal2background.jpg` [1] | 
 | `assets/images/portalfightbackground.jpg` [2] | 
 | `assets/images/portalwin.jpg` [3] | 
-
 | `assets/sounds/backgroundmusic.mp3` [4] | Nullscape
 | `assets/sounds/winmusic.ogg` [4] | Nullscape
-
 | `assets/images/telefragger.png` [5] | Nullscape
 | `assets/sounds/teleport.mp3` [5]  | Nullscape
-
 | `assets/images/mart.png` [6] | Nullscape
 
 ## References
