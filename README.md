@@ -35,9 +35,9 @@ The console will show any errors in your sketch.
 
 | File                                        | Source                                            |
 | ------------------------------------------- | ------------------------------------------------- |
-| `assets/images/portal2background.jpg` [1] | 
-| `assets/images/portalfightbackground.jpg` [2] | 
-| `assets/images/portalwin.jpg` [3] | 
+| `assets/images/portal2background.jpg` [1] | Portal 2 HD Wallpaper: Exploring the Forgotten Aperature Labs - alphacoders.com|
+| `assets/images/portalfightbackground.jpg` [2] | pinterest.com |
+| `assets/images/portalwin.jpg` [3] | Portal (game) 1080P, 2K, 4K, 5K HD wallpapers free download - wallpaperflare.com |
 | `assets/sounds/backgroundmusic.mp3` [4] | Nullscape
 | `assets/sounds/winmusic.ogg` [4] | Nullscape
 | `assets/images/telefragger.png` [5] | Nullscape
