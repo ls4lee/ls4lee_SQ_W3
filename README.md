@@ -38,11 +38,11 @@ The console will show any errors in your sketch.
 | `assets/images/portal2background.jpg` [1] | Portal 2 HD Wallpaper: Exploring the Forgotten Aperature Labs - alphacoders.com|
 | `assets/images/portalfightbackground.jpg` [2] | pinterest.com |
 | `assets/images/portalwin.jpg` [3] | Portal (game) 1080P, 2K, 4K, 5K HD wallpapers free download - wallpaperflare.com |
-| `assets/sounds/backgroundmusic.mp3` [4] | Nullscape
-| `assets/sounds/winmusic.ogg` [4] | Nullscape
-| `assets/images/telefragger.png` [5] | Nullscape
-| `assets/sounds/teleport.mp3` [5]  | Nullscape
-| `assets/images/mart.png` [6] | Nullscape
+| `assets/sounds/backgroundmusic.mp3` [4] | DIGITAL DESCENDANT, Won't you hear my Symphony? - nullscape.wiki |
+| `assets/sounds/winmusic.ogg` [4] | DIGITAL DESCENDANT, Smug -  nullscape.wiki |
+| `assets/images/telefragger.png` [5] | nullscape.wiki |
+| `assets/sounds/teleport.mp3` [5]  | nullscape.wiki |
+| `assets/images/mart.png` [6] | nullscape.wiki |
 
 ## References
 
